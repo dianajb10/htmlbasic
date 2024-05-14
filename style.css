@@ -1,0 +1,36 @@
+h1{
+    color: blueviolet;
+}
+
+.big{
+    color: rgb(112, 0, 0)
+}
+
+h1{
+    text-align: center;
+}
+
+p{
+    background-color: bisque;
+}
+
+body{
+    background-image: linear-gradient(rgb(255, 188, 255), rgb(155, 116, 155));
+    background-repeat: no-repeat;
+}
+
+.logo{
+    background: url("png/Pattern-By-Julpik-01.png") no-repeat scroll center;
+    width: 500px;
+    height: 140px;
+}
+
+a:hover {
+    background-color: yellow;
+  }
+
+li{
+    color: black;
+    position: sticky;
+    
+}

@@ -1,0 +1,46 @@
+header, nav, section, article, footer{
+    border: 1px solid #ddd;
+    box-sizing: border-box;
+    padding: 20px;
+    margin: 5px;
+}
+
+header, footer{
+    background-color: #333;
+    color: white;
+}
+
+nav{
+    background-color: #f0f0f0;
+    text-align: center;
+}
+
+section{
+    background-color: #f9f9f9;
+}
+
+article{
+    background-color: #eaeaea;
+}
+
+nav ul li a{
+    font-size: 20px;
+    text-decoration: none;
+    padding: 0px;
+    color: black;
+    padding: 10px;
+}
+
+nav ul li{
+    display: inline;
+}
+
+nav ul li a:hover{
+    background-color: rgba(128, 128, 128, 0.555);
+}
+
+body{
+    font-family: Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+}
